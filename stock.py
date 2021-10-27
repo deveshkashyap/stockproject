@@ -1,4 +1,5 @@
 # STOCK MANAGEMENT
+#commenting to chk git status
 
 import os
 import mysql.connector
